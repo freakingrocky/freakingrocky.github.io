@@ -1,0 +1,65 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/styles.55acf44fb1f30b557d30.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-8fab2804fb6f85b824b6.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-lekoarts-gatsby-theme-cara-templates-cara-tsx-f84be4b79cd6e5a178d5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-js-d85b24d2fc88b3293aa5.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-courses-tsx-90c0ced0aae4a464127b.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-467322c8ba172fb94ca6.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-d585a04b7d285a7760d6.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-628473908e7ed28b04b6.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/
+  Link: </webpack-runtime-467322c8ba172fb94ca6.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-628473908e7ed28b04b6.js>; rel=preload; as=script
+  Link: </styles-8fab2804fb6f85b824b6.js>; rel=preload; as=script
+  Link: </component---src-lekoarts-gatsby-theme-cara-templates-cara-tsx-f84be4b79cd6e5a178d5.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/offline-plugin-app-shell-fallback/
+  Link: </webpack-runtime-467322c8ba172fb94ca6.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-628473908e7ed28b04b6.js>; rel=preload; as=script
+  Link: </component---cache-caches-gatsby-plugin-offline-app-shell-js-19245c8506e49b502b12.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/404/
+  Link: </webpack-runtime-467322c8ba172fb94ca6.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-628473908e7ed28b04b6.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-d85b24d2fc88b3293aa5.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/courses/
+  Link: </webpack-runtime-467322c8ba172fb94ca6.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-628473908e7ed28b04b6.js>; rel=preload; as=script
+  Link: </component---src-pages-courses-tsx-90c0ced0aae4a464127b.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/courses/page-data.json>; rel=preload; as=fetch; crossorigin
+/404.html
+  Link: </webpack-runtime-467322c8ba172fb94ca6.js>; rel=preload; as=script
+  Link: </framework-d585a04b7d285a7760d6.js>; rel=preload; as=script
+  Link: </app-628473908e7ed28b04b6.js>; rel=preload; as=script
+  Link: </component---src-pages-404-js-d85b24d2fc88b3293aa5.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
